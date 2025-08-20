@@ -1,5 +1,5 @@
 # Banco de dados 
-## Banco: [MariaDB](https://mariadb.org/)
+## Banco: [MariaDB(MySQL)](https://mariadb.org/)
 
 O **MariaDB Server** é um dos bancos de dados relacionais de código aberto mais populares.  
 Ele foi criado pelos desenvolvedores originais do MySQL e possui a garantia de permanecer como código aberto.  
